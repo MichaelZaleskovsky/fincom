@@ -9,10 +9,10 @@ function findNM(input) {
             }
         }
     }
-};
+}
 
 module.exports = function (input) {
     result = [];
     findNM(input);
     return result;
-}
+};
